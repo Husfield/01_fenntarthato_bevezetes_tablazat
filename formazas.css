@@ -11,6 +11,9 @@ table {
     margin: auto;
     border-collapse: collapse;
 }
+td {
+    color: #58716a;
+}
 th {
     background-color: #18352f;
     color: white;
