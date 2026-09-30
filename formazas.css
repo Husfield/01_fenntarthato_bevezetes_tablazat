@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+
+td, th {
+    padding: 5px;
+}
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+th {
+    background-color: #18352f;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: whitesmoke;
+
+}
+tr:nth-child(odd){
+    background-color: lightgray;
+}
+.szines {
+    color: #145c4e;;
+}
